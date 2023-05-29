@@ -10,6 +10,8 @@ Multi Tear Web Application Setup Locally
 - Open terminal
 - vagrant up
 
+#setup every VM with one service 
+
 # Services
 1. MySQL
 2. Memcache
@@ -17,4 +19,4 @@ Multi Tear Web Application Setup Locally
 4. Tomcat
 5. Nginx
 
-#setup every VM with the one service 
+
