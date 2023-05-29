@@ -1,14 +1,14 @@
 # Multi-tier-local
 Multi Tear Web Application Setup Locally
 # Prerequisites 
-  -Oracle VM virtualBox
-  -vagrant
-  -Vagrant plugins (vagrant-hostmanager)
+  - Oracle VM virtualBox
+  - vagrant
+  - Vagrant plugins (vagrant-hostmanager)
   - GIT
 
 #VM Setup
--Open terminal
--vagrant up
+- Open terminal
+- vagrant up
 
 # Services
 1. MySQL
