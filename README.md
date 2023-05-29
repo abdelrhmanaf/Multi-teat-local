@@ -11,7 +11,7 @@ Multi Tear Web Application Setup Locally
 - vagrant up
 
 # setup every VM with one service 
-   Services
+  - Services
       1. MySQL
       2. Memcache
       3. RabbitMQ
